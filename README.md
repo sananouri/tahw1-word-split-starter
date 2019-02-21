@@ -11,6 +11,8 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 <div dir="rtl" align="right">
 برنامه ای بنویسید که رشته ای از کاربر دریافت کند و فاصله های آن را تبدیل به کاما کند.
 
+<div dir="ltr" align="left">
+
 ```java
 package ir.ac.kntu;
 
@@ -28,7 +30,7 @@ public class WordSplit{
 }
 ```
 
-
+</div>
 
 # ورودی
 یک رشته که کاربر آن را وارد می کند.
@@ -38,16 +40,20 @@ public class WordSplit{
 # مثال
 
 ## ورودی نمونه ۱
+<div dir="ltr" align="left">
+
 ```
 Hello my name is Java. i love programmers!
 ```
-
+</div>
 
 ## خروجی نمونه ۱
+<div dir="ltr" align="left">
+
 ```
 Hello,my,name,is,Java.,i,love,programmers!
 ```
-  
+</div>  
   
   
 </div>
