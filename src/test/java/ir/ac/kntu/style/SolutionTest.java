@@ -30,7 +30,9 @@ public class SolutionTest {
         PrintStream printStream = null;
         try {
             File input = new File("input.txt");
+            input.createNewFile();
             File output = new File("output.txt");
+            output.createNewFile();
             in = new FileInputStream(input);
             printStream = new PrintStream(output);
             try (PrintWriter w = new PrintWriter(input);) {
