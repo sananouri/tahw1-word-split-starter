@@ -1,8 +1,6 @@
 # TA HW 1 - Word Split - 10 Points
 
-[![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
-
-YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<YOUR_STUDENT_ID>
+[![Grader Status](https://kntu-grader.herokuapp.com/minimal?repo=tahw1-word-split-starter&id=9731003)](https://kntu-grader.herokuapp.com/minimal?repo=tahw1-word-split-starter&id=9731003)
 
 
 
